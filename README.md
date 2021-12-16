@@ -1,0 +1,2 @@
+# Zoey-Rewritten
+### Discord Bot
